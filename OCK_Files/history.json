@@ -1,0 +1,56 @@
+[
+    {
+        "product_name": "Lilu",
+        "id": 299485462,
+        "url": "https://github.com/dortania/build-repo/releases/download/Lilu-0515f40/Lilu-1.7.3-RELEASE.zip",
+        "sha256": "261aebb9dc83adb6515c96405653f53c3c50b09c89babdb91fb41f7b33a1cd2a"
+    },
+    {
+        "product_name": "VirtualSMC",
+        "id": 232065486,
+        "url": "https://github.com/dortania/build-repo/releases/download/VirtualSMC-55b89a2/VirtualSMC-1.3.8-RELEASE.zip",
+        "sha256": "a95a67e69a549a24b15beb6e595352e63e2ca63c3f43f7e098099d0eb2678a5c"
+    },
+    {
+        "product_name": "AirportItlwm17",
+        "id": 759070906,
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v2.3.0/AirportItlwm_v2.3.0_stable_HighSierra.kext.zip",
+        "sha256": null
+    },
+    {
+        "product_name": "IntelBluetoothFirmware",
+        "id": 209231221,
+        "url": "https://github.com/lshbluesky/IntelBluetoothFirmware/releases/download/v2.5.0-d2/IntelBluetooth-2.5.0-d2-RELEASE.zip",
+        "sha256": "a2c3a27d43b21dfcbcc48be137ebd1869d5cd237a8f6c17d9695089acb7afff0"
+    },
+    {
+        "product_name": "USBToolBox",
+        "id": 359051316,
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.2.0/USBToolBox-1.2.0-RELEASE.zip",
+        "sha256": "c315a3a5acfd496dd97d0d19b4fbd1d487103d2fd541c5651583d4c9cebcfe07"
+    },
+    {
+        "product_name": "BrightnessKeys",
+        "id": 162368093,
+        "url": "https://github.com/dortania/build-repo/releases/download/BrightnessKeys-37bdf47/BrightnessKeys-1.0.4-RELEASE.zip",
+        "sha256": "8fc2be5041801cc4fbf481153034b975ed18e02af312d6316531ee859f764126"
+    },
+    {
+        "product_name": "ECEnabler",
+        "id": 225194974,
+        "url": "https://github.com/dortania/build-repo/releases/download/ECEnabler-29dcde7/ECEnabler-1.0.6-RELEASE.zip",
+        "sha256": "35bfa75eb35eab48b3fe0788271b4be8ba5521d09c793324c762ff88b3041e64"
+    },
+    {
+        "product_name": "RestrictEvents",
+        "id": 232065220,
+        "url": "https://github.com/dortania/build-repo/releases/download/RestrictEvents-9265e78/RestrictEvents-1.1.7-RELEASE.zip",
+        "sha256": "e5a8c15adeba9251be2709899214fe7fd847f6d38fca6c09adb65e9b2af64f0a"
+    },
+    {
+        "product_name": "OpenCorePkg",
+        "id": 299470892,
+        "url": "https://github.com/dortania/build-repo/releases/download/OpenCorePkg-dab2d91/OpenCore-1.0.8-RELEASE.zip",
+        "sha256": "0508aa6017f5e4df5366c097b056d19c73e954b362188d0b26999e9fce8b840c"
+    }
+]

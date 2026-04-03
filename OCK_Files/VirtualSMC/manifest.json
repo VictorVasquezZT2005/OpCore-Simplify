@@ -1,0 +1,15 @@
+{
+    "SMCBatteryManager.kext/Contents/Info.plist": "b7d7a2a2a11e0f85a04eaba5b759c918a97810f4759fa288de5ec738c7e900b3",
+    "SMCBatteryManager.kext/Contents/Resources/SSDT-BATC.dsl": "e66bbd57e5c6ef0ddbc3a6e51f68fe875d84709b73d4772e1c193269f2a89e4b",
+    "SMCBatteryManager.kext/Contents/MacOS/SMCBatteryManager": "3a68c8ae271d27aac69e7728c5e1bad5630751a3396c278307d5a92a66e50f80",
+    "VirtualSMC.kext/Contents/Info.plist": "2edc12cf9569dde204fb45087f5e9877b143d3b2180ec0d4dc32dab2da0a7f8b",
+    "VirtualSMC.kext/Contents/MacOS/VirtualSMC": "231d735f3b2208398f0726fac6245149601af7d7cda8870e5b9e3f77f819792c",
+    "SMCProcessor.kext/Contents/Info.plist": "797bae2a2cd49d71179dab265a1f92b642f73a881bf80d0f5b6c6de21de15a51",
+    "SMCProcessor.kext/Contents/MacOS/SMCProcessor": "9f744ec4b1c6a01df5a61fcd5e085045c9426158650bb9f5ff51412c7a6bc6e0",
+    "SMCDellSensors.kext/Contents/Info.plist": "8b1cb59222557ff28c05152c35a137b9d3bc0232b1e81484f52983a24d2787a0",
+    "SMCDellSensors.kext/Contents/MacOS/SMCDellSensors": "10ed6fd7d0170f866cca1fa53a2c540f9690042fdf0fd73641ee0326a86f464b",
+    "SMCSuperIO.kext/Contents/Info.plist": "d4f432664b2e8bfb1a8efbeeef85fd444bfcdc07254e65f059ee494e24cd0874",
+    "SMCSuperIO.kext/Contents/MacOS/SMCSuperIO": "d7e03cfddfa72ee40da06220d0291d4aa9384e804778caf86beae0fa6e8ddaf6",
+    "SMCLightSensor.kext/Contents/Info.plist": "38c1db7362d3d3a2221dbeedfdd2dd296421f6e7dcd5be462dec13c490979bed",
+    "SMCLightSensor.kext/Contents/MacOS/SMCLightSensor": "03424377da9f56f11850da5fea2f42b6cc55345a67cf55702e895442627f2d47"
+}

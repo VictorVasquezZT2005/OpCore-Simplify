@@ -1,0 +1,5 @@
+{
+    "UTBDefault.kext/Contents/Info.plist": "e831e8bc5b05d8ca6283909413368e1e5f12d7cd8473600fa3b9cc634157582a",
+    "USBToolBox.kext/Contents/Info.plist": "f6095d4d3b026aa05169a71b32313d343ab4ac114a2be667dd64479d6643cab3",
+    "USBToolBox.kext/Contents/MacOS/USBToolBox": "c5c8dc205a079ee3f90b7875fb5ff622e4f15d32f29cf519123dab2822c422b7"
+}

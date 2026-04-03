@@ -1,0 +1,7 @@
+{
+    "IntelBluetoothInjector.kext/Contents/Info.plist": "f6052c023b67935fa8261010047568c6ada05a738a037de01bb14d6a93b1e588",
+    "IntelBluetoothFirmware.kext/Contents/Info.plist": "408a0a98ae655a8e38f9f8a3db264382fbb3a8b7026482654fea830d22e68e9c",
+    "IntelBluetoothFirmware.kext/Contents/MacOS/IntelBluetoothFirmware": "1afa983d2640a0ac16b8f0f17598f5ac7a159fb9ac91e8c5fce29344c301d291",
+    "IntelBTPatcher.kext/Contents/Info.plist": "39c49ad38af0a9551ff113fd0a45d9eb55085515ac4b210390459e9bf9fda47f",
+    "IntelBTPatcher.kext/Contents/MacOS/IntelBTPatcher": "2a3fd14e4fed5f3f30695fcafb8592207406a911fccb32f6d74c836638ea1c59"
+}
